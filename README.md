@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swarnendu20
+- 👋 Hi, I’m @Swarnendu Mondal
 
 <!---
 - 👀 I’m interested in ...
